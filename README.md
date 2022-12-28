@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mark. I like reading and writing - good sentences, good stories, and good code. 
 - 👀 If you need copy, or some proof-reading, let me know.
-- 🌱 I’m currently on a 4-month, 500 hour bootcamp, learning fullstack web development. It's intense.
+- 🌱 I just finished a 4-month, 525 hour bootcamp, learning fullstack web development.
 - 💞️ Jan 2023 I'll be looking for work :)
 - 📫 Twitter: @monconish
 
