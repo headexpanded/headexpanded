@@ -1,8 +1,34 @@
-- Hi, I’m Mark. I like reading and writing - good sentences, good stories, and good code!
-- I just finished a 4-month, 525 hour bootcamp, learning fullstack web development.
-- I'm interested in both back-end and front-end; Laravel, React, and vanilla CSS in particular
-- Currently working on Streemer, an app for making regular payments to your energy company based on cost data from yuor smart meter(s)
-- Also, if you need copy, or some proof-reading, let me know.
+## Hello World
+
+- Hi, I’m Mark.
+
+- Back in '98 I was working in Melbourne for a small company which hired a Python consultancy, "Object Craft".
+
+- Linux was quite new at the time: I asked these guys "what Linux flavour would you install?" They replied "Debian".
+
+- I *should* have asked "what Linux flavour would you install *if you were me?*, seeing as how I had zero chops.
+- So I bought two Dell 486's from the Salvation Army 2nd-hand shop and spent the next *x* hours/days/months installing and configuring Debian on them and getting them to talk to each other.
+- This is back in the days of Woody, dial-up modems, and How-Tos.
+- As time went by I got quite handy with Python - *Python 1.5* - then I moved to Luxembourg to build a bespoke quantitative fund analysis tool for a private bank here.
+- I wanted to use Python and MySQL, but...private bank, risk-averse IT department, etc etc, so I had to use what was on the desktop: MSAccess and VBA. Got it done though.
+- Got through a few more projects: integrating legacy back-office system reporting across business units and so on.
+- Little by little my career moved away from coding and towards management of business platforms: people, processes, P&L, that sort of thing.
+- I regret not sticking with coding because I really like it.
+
+## BUT NOW I'M BACK
+
+- I just finished a 4-month, 525 hour, full-stack web development course!
+- HTML5, CSS3, JavaScript, React, TypeScript, SQL, PHP, APIs, Laravel, Tailwind.
+
+## Fat Slob Plumbing
+
+- I hope you've got a sense of humour.
+- React, TypeScript, CSS, GraphQL
+
+## Streemer
+
+- Pay-as-you-go for your energy: connect your smart-meter, set your payment limit, streem your energy cash-flows
+- MySQL, Laravel, Inertia/React, TailWind, CSS3
 
 <!---
 headexpanded/headexpanded is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
