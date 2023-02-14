@@ -4,7 +4,9 @@
 
 - Back in '98 I was working in Melbourne for a small company which hired a Python consultancy, "Object Craft".
 
-- Linux was quite new at the time: I asked these guys "what Linux flavour would you install?" They replied "Debian".
+- Linux was quite new at the time: I asked these guys "what Linux flavour would you install?"
+
+- They replied "Debian".
 
 - I *should* have asked "what Linux flavour would you install *if you were me?*, seeing as how I had zero chops.
 - So I bought two Dell 486's from the Salvation Army 2nd-hand shop and spent the next *x* hours/days/months installing and configuring Debian on them and getting them to talk to each other.
@@ -19,6 +21,7 @@
 
 - I just finished a 4-month, 525 hour, full-stack web development course!
 - HTML5, CSS3, JavaScript, React, TypeScript, SQL, PHP, APIs, Laravel, Tailwind.
+- (still wrangling Linux, too)
 
 ## Fat Slob Plumbing
 
