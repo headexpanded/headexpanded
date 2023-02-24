@@ -32,12 +32,12 @@
 ## Fat Slob Plumbing
 
 - I hope you've got a sense of humour.
-- React, TypeScript, CSS, HyGraph
+- React, TypeScript, CSS, GraphQL
 
 ## Streemer
 
 - Pay-as-you-go for your energy: connect your smart-meter, set your payment limit, & streem your energy cash-flows
-- MySQL, Laravel, Inertia/React, TailWind, CSS
+- Laravel, Inertia/React, TailWind, some custom CSS, MySQL
 
 <!---
 headexpanded/headexpanded is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
