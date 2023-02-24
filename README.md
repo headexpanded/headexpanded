@@ -23,6 +23,12 @@
 - HTML5, CSS3, JavaScript, React, TypeScript, SQL, PHP, APIs, Laravel, Tailwind.
 - (still wrangling Linux, too)
 
+## Random Steely Dan
+
+- a Chrome extension which puts a random Steely Dan lyric notification in your browser once every 24 hours
+- JavaScript, GraphQL
+- next: The Fall, Bob Dylan, Bob Marley, and more!
+
 ## Fat Slob Plumbing
 
 - I hope you've got a sense of humour.
