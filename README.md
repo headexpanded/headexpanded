@@ -29,7 +29,7 @@
 - JavaScript, GraphQL
 - next: The Fall, Bob Dylan, Bob Marley, and more!
 
-## Fat Slob Plumbing
+## [Fat Slob Plumbing](https://github.com/headexpanded/fat_slob_plumbing)
 
 - I hope you've got a sense of humour.
 - React, TypeScript, CSS, GraphQL
