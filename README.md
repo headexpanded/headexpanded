@@ -34,7 +34,7 @@
 - I hope you've got a sense of humour.
 - React, TypeScript, CSS, GraphQL
 
-## Streemer
+## [Streemer](https://github.com/headexpanded/streemer)
 
 - Pay-as-you-go for your energy: connect your smart-meter, set your payment limit, & streem your energy cash-flows
 - Laravel, Inertia/React, TailWind, some custom CSS, MySQL
