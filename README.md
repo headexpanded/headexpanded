@@ -2,24 +2,15 @@
 
 - Hi, I’m Mark.
 
-- Back in '98 I was working in Melbourne for a small company which hired a Python consultancy, "Object Craft".
+- Back in '98 I bought two Dell 486's from the Salvation Army 2nd-hand shop
 
-- Linux was quite new at the time: I asked these guys "what Linux flavour would you install?"
+- Spent the next *x* hours/days/months installing and configuring Debian on them and getting them to talk to each other.
 
-- They replied "Debian".
-
-- I *should* have asked "what Linux flavour would you install *if you were me?*, seeing as how I had zero chops.
-- So I bought two Dell 486's from the Salvation Army 2nd-hand shop and spent the next *x* hours/days/months installing and configuring Debian on them and getting them to talk to each other.
-- This is back in the days of Woody, dial-up modems, and How-Tos.
-- As time went by I got quite handy with Python - *Python 1.5* - then I moved to Luxembourg to build a bespoke quantitative fund analysis tool for a private bank here.
-- I wanted to use Python and MySQL, but...private bank, risk-averse IT department, etc etc, so I had to use what was on the desktop: MSAccess and VBA. Got it done though.
-- Got through a few more projects: integrating legacy back-office system reporting across business units and so on.
 - Little by little my career moved away from coding and towards management of business platforms: people, processes, P&L, that sort of thing.
-- I regret not sticking with coding because I really like it.
 
 ## BUT NOW I'M BACK
 
-- I just finished a 4-month, 525 hour, full-stack web development course!
+- I did a 4-month, 525 hour, full-stack web development course!
 - HTML5, CSS3, JavaScript, React, TypeScript, SQL, PHP, APIs, Laravel, Tailwind.
 - (still wrangling Linux, too)
 
