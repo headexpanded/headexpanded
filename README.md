@@ -23,7 +23,7 @@
 - HTML5, CSS3, JavaScript, React, TypeScript, SQL, PHP, APIs, Laravel, Tailwind.
 - (still wrangling Linux, too)
 
-## Random Steely Dan
+## [Random Steely Dan](https://github.com/headexpanded/random_steely_dan)
 
 - a Chrome extension which puts a random Steely Dan lyric notification in your browser once every 24 hours
 - JavaScript, GraphQL
