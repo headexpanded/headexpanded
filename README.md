@@ -16,7 +16,8 @@
 
 ## [Random Steely Dan](https://github.com/headexpanded/random_steely_dan)
 
-- a Chrome extension which puts a random Steely Dan lyric notification in your browser once every 24 hours
+- a Chrome extension which puts a random Steely Dan lyric notification in your browser once every 8 hours or so
+- and then [tweets it](https://twitter.com/randomsteelydan)
 - JavaScript, GraphQL
 - next: The Fall, Bob Dylan, Bob Marley, and more!
 
