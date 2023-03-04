@@ -1,7 +1,5 @@
 ## Hello World
 
-- Hi, I’m Mark.
-
 - Back in '98 I bought two Dell 486's from the Salvation Army 2nd-hand shop
 
 - Spent the next *x* hours/days/months installing and configuring Debian on them and getting them to talk to each other.
