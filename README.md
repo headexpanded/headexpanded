@@ -1,10 +1,14 @@
 ## Hello World
 
-- Back in '98 I bought two Dell 486's from the Salvation Army 2nd-hand shop
+- Back in '98 I bought two Dell 486's from the Salvation Army.
 
-- Spent the next *x* hours/days/months installing and configuring Debian on them and getting them to talk to each other.
+- Installed Debian on them over a modem (Woody).
 
-- Little by little my career moved away from coding and towards management of business platforms: people, processes, P&L, that sort of thing.
+- Started learning Python so I could work with the devs at my fund management job.
+
+- Also HTML, CSS, JS, SQL for same reason.
+
+- Over time my career moved towards management: people, processes, P&L, that sort of thing.
 
 ## BUT NOW I'M BACK
 
@@ -14,7 +18,7 @@
 
 ## [Random Steely Dan](https://github.com/headexpanded/random_steely_dan)
 
-- a Chrome extension which puts a random Steely Dan lyric notification in your browser once every 8 hours or so
+- a Chrome extension which puts a random Steely Dan lyric notification in your browser once every 8 hours
 - and then [tweets it](https://twitter.com/randomsteelydan)
 - submitted to Chrome for review in early March 2023.
 - JavaScript, HTML, CSS, GraphQL
