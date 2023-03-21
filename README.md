@@ -6,7 +6,7 @@
 
 - Started learning Python so I could work with the devs at my fund management job.
 
-- Also HTML, CSS, JS, SQL for same reason.
+- Also HTML, CSS, JS, SQL for the same reason.
 
 - Over time my career moved towards management: people, processes, P&L, that sort of thing.
 
