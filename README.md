@@ -2,7 +2,7 @@
 
 - Back in '98 I bought two Dell 486's from the Salvation Army.
 
-- Installed Debian on them over a modem (Woody).
+- I installed Debian on them over a modem (Woody).
 
 - Started learning Python so I could work with the devs at my fund management job.
 
