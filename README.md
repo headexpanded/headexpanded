@@ -26,7 +26,7 @@
 ## [Fat Slob Plumbing](https://github.com/headexpanded/fat_slob_plumbing)
 
 - I hope you've got a sense of humour.
-- This business in northern England provides a unique service.
+- This "business" in northern England provides a unique service.
 - React, TypeScript, CSS, GraphQL
 
 ## [Streemer](https://github.com/headexpanded/streemer)
