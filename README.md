@@ -19,8 +19,8 @@
 ## [Random Steely Dan](https://github.com/headexpanded/random_steely_dan)
 
 - a Chrome extension which puts a random Steely Dan lyric notification in your browser once every 8 hours
-- and then [tweets it](https://twitter.com/randomsteelydan)
-- submitted to Chrome for review in early March 2023.
+- Comming soon: [auto-tweet](https://twitter.com/randomsteelydan)
+- Install from the [Chrome Web Store!](https://chrome.google.com/webstore/detail/random-steely-dan/ohmpmkjhiadganahhcaakeacniikloni?hl=en-GB)
 - TypeScript, HTML, CSS, GraphQL
 
 ## [Fat Slob Plumbing](https://github.com/headexpanded/fat_slob_plumbing)
