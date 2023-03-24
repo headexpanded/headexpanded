@@ -20,7 +20,7 @@ Here are three projects I'm working on:
 - Pay-as-you-go for your energy: connect your smart-meter, set your payment limit, & streem your energy cash-flows
 - Laravel, Inertia/React, TailWind, some custom CSS, MySQL
 - Probably going to turn it into a To Do app
-- Quite pleased with the home page CSS, and the loud colour palette.
+- Quite pleased with the loud colour palette.
 
 <!---
 headexpanded/headexpanded is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
