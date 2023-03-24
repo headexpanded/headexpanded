@@ -1,27 +1,13 @@
 ## Hello World
 
-- Back in '98 I bought two Dell 486's from the Salvation Army.
-
-- I installed Debian on them over a modem (Woody).
-
-- Started learning Python so I could work with the devs at my fund management job.
-
-- Also HTML, CSS, JS, SQL for the same reason.
-
-- Over time my career moved towards management: people, processes, P&L, that sort of thing.
-
-## BUT NOW I'M BACK
-
-- I did a 4-month, 525 hour, full-stack web development course!
-- HTML5, CSS3, JavaScript, React, TypeScript, SQL, PHP, APIs, Laravel, Tailwind.
-- (still wrangling Linux, too)
+Here are three projects I'm working on:
 
 ## [Random Steely Dan](https://github.com/headexpanded/random_steely_dan)
 
 - a Chrome extension which puts a random Steely Dan lyric notification in your browser once every 8 hours
-- Comming soon: [auto-tweet](https://twitter.com/randomsteelydan)
 - Install from the [Chrome Web Store!](https://chrome.google.com/webstore/detail/random-steely-dan/ohmpmkjhiadganahhcaakeacniikloni?hl=en-GB)
-- TypeScript, HTML, CSS, GraphQL
+- TypeScript, HTML, CSS, GraphQL- Comming soon: [auto-tweet](https://twitter.com/randomsteelydan)
+- Comming soon: [auto-tweet](https://twitter.com/randomsteelydan) each notification
 
 ## [Fat Slob Plumbing](https://github.com/headexpanded/fat_slob_plumbing)
 
@@ -33,6 +19,8 @@
 
 - Pay-as-you-go for your energy: connect your smart-meter, set your payment limit, & streem your energy cash-flows
 - Laravel, Inertia/React, TailWind, some custom CSS, MySQL
+- Probably going to turn it into a To Do app
+- Quite pleased with the home page CSS, and the loud colour palette.
 
 <!---
 headexpanded/headexpanded is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
