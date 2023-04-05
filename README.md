@@ -12,11 +12,11 @@ Here are three projects for which I take full responsibility:
 
 ## [Salami](https://github.com/headexpanded/salami)
 
-- my friend Dan cures salami in his garage fridge
+- My friend Dan cures salami in his garage fridge
 - Dan wants to control his Raspberry Pi from his phone so the RP can control a thermostat & de-humidifier
-- [Next.js](https://nextjs.org/), [Auth.js](https://authjs.dev/), [Prisma](https://www.prisma.io/)
-- [Vercel](https://vercel.com/), [Railway](https://railway.app/) (PostgreSQL)
-- Using some templates by Steven Tey ([@steventey](https://twitter.com/steventey))  
+- Dan needs a front end, a db, APIs to/from the db & the Raspberry Pi
+- [Next.js](https://nextjs.org/), [Auth.js](https://authjs.dev/), 
+- [Prisma](https://www.prisma.io/), [PostgreSQL](https://www.postgresql.org/)  
 
 ## [Fat Slob Plumbing](https://github.com/headexpanded/fat_slob_plumbing)
 
