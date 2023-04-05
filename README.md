@@ -16,7 +16,8 @@ Here are three projects for which I take full responsibility:
 - Dan wants to control his Raspberry Pi from his phone so the RP can control a thermostat & de-humidifier
 - Dan needs a front end, a db, nad APIs to/from the db & the Raspberry Pi
 - [Next.js](https://nextjs.org/), [Auth.js](https://authjs.dev/), 
-- [Prisma](https://www.prisma.io/), [PostgreSQL](https://www.postgresql.org/)  
+- [Prisma](https://www.prisma.io/), [PostgreSQL](https://www.postgresql.org/)
+- [TypeScript](https://www.typescriptlang.org/), CSS
 
 ## [Fat Slob Plumbing](https://github.com/headexpanded/fat_slob_plumbing)
 
