@@ -7,8 +7,10 @@ Here are three projects for which I take full responsibility:
 - a Chrome extension which puts a random Steely Dan lyric notification in your browser once every 8 hours
 - There's a hard core of tragics who'll absolutely love this
 - Available in the [Chrome Web Store](https://chrome.google.com/webstore/detail/random-steely-dan/ohmpmkjhiadganahhcaakeacniikloni?hl=en-GB)
-- [TypeScript](https://www.typescriptlang.org/), HTML, CSS, GraphQL
-- Comming soon: [auto-tweet](https://twitter.com/randomsteelydan) each notification
+- Coming soon: [auto-tweet](https://twitter.com/randomsteelydan) each notification
+- [TypeScript](https://www.typescriptlang.org/)
+- [HyGraph - GraphQL](https://hygraph.com/)
+- HTML, CSS
 
 ## [Salami](https://github.com/headexpanded/salami)
 
@@ -17,13 +19,17 @@ Here are three projects for which I take full responsibility:
 - Dan needs a front end, a db, and APIs to/from the db & the Raspberry Pi
 - [Next.js](https://nextjs.org/), [Auth.js](https://authjs.dev/), 
 - [Prisma](https://www.prisma.io/), [PostgreSQL](https://www.postgresql.org/)
-- [TypeScript](https://www.typescriptlang.org/), CSS
+- [TypeScript](https://www.typescriptlang.org/)
+- HTML, CSS
 
 ## [Fat Slob Plumbing](https://github.com/headexpanded/fat_slob_plumbing)
 
-- I hope you've got a sense of humour.
 - This "business" in northern England provides a unique service.
-- [React](https://react.dev/), [TypeScript](https://www.typescriptlang.org/), CSS, GraphQL
+- (Having a sense of humour helps with this one.)
+- [Next.js](https://nextjs.org/), [React](https://react.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [HyGraph - GraphQL](https://hygraph.com/)
+- HTML, CSS
 
 <!---
 headexpanded/headexpanded is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
