@@ -7,7 +7,7 @@ Here are three projects for which I take full responsibility:
 - a Chrome extension which puts a random Steely Dan lyric notification in your browser once every 8 hours
 - There's a hard core of tragics who'll absolutely love this
 - Available Now! in the [Chrome Web Store](https://chrome.google.com/webstore/detail/random-steely-dan/ohmpmkjhiadganahhcaakeacniikloni?hl=en-GB)
-- [TypeScript](https://www.typescriptlang.org/) - {noImplicitAny: true}
+- [TypeScript](https://www.typescriptlang.org/)
 - [HyGraph - GraphQL](https://hygraph.com/)
 - HTML, CSS
 
@@ -24,7 +24,9 @@ Here are three projects for which I take full responsibility:
 ## [Fat Slob Plumbing](https://github.com/headexpanded/fat_slob_plumbing)
 
 - This "business" in northern England provides a unique service.
-- (Having a broad sense of humour helps with this one.)
+- I made this for my son and his friends.
+- Yes, they are teenagers and they think it's funny.
+- But oooh, look at the lovely responsive CSS...all pure, no framework.
 - [Next.js](https://nextjs.org/), [React](https://react.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [HyGraph - GraphQL](https://hygraph.com/)
