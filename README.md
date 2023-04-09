@@ -7,7 +7,7 @@ Here are three projects for which I take full responsibility:
 - a Chrome extension which puts a random Steely Dan lyric notification in your browser once every 8 hours
 - There's a hard core of tragics who'll absolutely love this
 - Available Now! in the [Chrome Web Store](https://chrome.google.com/webstore/detail/random-steely-dan/ohmpmkjhiadganahhcaakeacniikloni?hl=en-GB)
-- [TypeScript](https://www.typescriptlang.org/) - noImplicitAny: true
+- [TypeScript](https://www.typescriptlang.org/) - {noImplicitAny: true}
 - [HyGraph - GraphQL](https://hygraph.com/)
 - HTML, CSS
 
