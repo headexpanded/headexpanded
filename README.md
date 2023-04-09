@@ -15,7 +15,7 @@ Here are three projects for which I take full responsibility:
 ## [Salami](https://github.com/headexpanded/salami)
 
 - My friend Dan cures salami in his garage fridge
-- Dan wants to control his Raspberry Pi from his phone so the RP can control a thermostat & de-humidifier
+- Dan wants to control his Raspberry Pi from his phone, so the RP can control a thermostat & de-humidifier
 - Dan needs a front end, a db, and APIs to/from the db & the Raspberry Pi
 - [Next.js](https://nextjs.org/), [Auth.js](https://authjs.dev/), 
 - [Prisma](https://www.prisma.io/), [PostgreSQL](https://www.postgresql.org/)
@@ -25,7 +25,7 @@ Here are three projects for which I take full responsibility:
 ## [Fat Slob Plumbing](https://github.com/headexpanded/fat_slob_plumbing)
 
 - This "business" in northern England provides a unique service.
-- (Having a sense of humour helps with this one.)
+- (Having a broad sense of humour helps with this one.)
 - [Next.js](https://nextjs.org/), [React](https://react.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [HyGraph - GraphQL](https://hygraph.com/)
