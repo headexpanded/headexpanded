@@ -18,6 +18,7 @@ Here are three projects for which I take full responsibility:
 - Dan needs a front end, a db, and APIs to/from the db & the Raspberry Pi
 - [Next.js](https://nextjs.org/), [Auth.js](https://authjs.dev/), 
 - [Prisma](https://www.prisma.io/), [PostgreSQL](https://www.postgresql.org/)
+- [Socket.io](https://socket.io/)
 - [TypeScript](https://www.typescriptlang.org/)
 - HTML, CSS
 
