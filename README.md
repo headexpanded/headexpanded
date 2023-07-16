@@ -1,6 +1,6 @@
 ## Hello World
 
-Here are three projects for which I take full responsibility:
+Here are some projects for which I take full responsibility:
 
 ## [Random Steely Dan](https://github.com/headexpanded/random_steely_dan)
 
@@ -10,6 +10,12 @@ Here are three projects for which I take full responsibility:
 - [TypeScript](https://www.typescriptlang.org/)
 - [HyGraph - GraphQL](https://hygraph.com/)
 - HTML, CSS
+
+## [Angular-AFL](https://github.com/headexpanded/Angular-AFL/blob/main/README.md)
+
+- a lightweight Aussie Rules AFL ladder. Loads quickly, no gambling ads.
+- [Angular](https://github.com/angular/angular-cli) version 16.1.3.
+
 
 ## [Salami](https://github.com/headexpanded/salami)
 
