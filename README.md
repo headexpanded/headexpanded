@@ -15,6 +15,7 @@ Here are some projects for which I take full responsibility:
 
 - a lightweight Aussie Rules AFL ladder. Loads quickly, no gambling ads.
 - [Angular](https://github.com/angular/angular-cli) version 16.1.3.
+- HTML, CSS
 
 
 ## [Salami](https://github.com/headexpanded/salami)
