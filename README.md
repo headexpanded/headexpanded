@@ -17,6 +17,17 @@ Here are some projects for which I take full responsibility:
 - [Angular](https://github.com/angular/angular-cli) version 16.1.3.
 - HTML, CSS
 
+## [Fat Slob Plumbing](https://github.com/headexpanded/fat_slob_plumbing)
+
+- This "business" in northern England provides a unique service.
+- I made this for my son and his friends.
+- Yes, they are teenagers and they think it's funny.
+- But oooh, look at the lovely responsive CSS...all pure, no framework.
+- [Next.js 12](https://nextjs.org/), [React](https://react.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [HyGraph - GraphQL](https://hygraph.com/)
+- HTML, CSS
+
 
 ## [Salami](https://github.com/headexpanded/salami)
 
@@ -30,16 +41,7 @@ Here are some projects for which I take full responsibility:
 - [TypeScript](https://www.typescriptlang.org/)
 - HTML, CSS
 
-## [Fat Slob Plumbing](https://github.com/headexpanded/fat_slob_plumbing)
 
-- This "business" in northern England provides a unique service.
-- I made this for my son and his friends.
-- Yes, they are teenagers and they think it's funny.
-- But oooh, look at the lovely responsive CSS...all pure, no framework.
-- [Next.js 12](https://nextjs.org/), [React](https://react.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [HyGraph - GraphQL](https://hygraph.com/)
-- HTML, CSS
 
 <!---
 headexpanded/headexpanded is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
