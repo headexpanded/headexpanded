@@ -11,13 +11,7 @@ Here are some projects for which I take full responsibility:
 - [HyGraph - GraphQL](https://hygraph.com/)
 - HTML, CSS
 
-## [Angular-AFL](https://github.com/headexpanded/Angular-AFL/blob/main/README.md)
-
-- a lightweight Aussie Rules AFL ladder. Loads quickly, no gambling ads.
-- [Angular](https://github.com/angular/angular-cli) version 16.1.3.
-- HTML, CSS
-
-## [Fat Slob Plumbing](https://github.com/headexpanded/fat_slob_plumbing)
+## [Fat Slob Plumbing](https://github.com/headexpanded/fat_slob_plumbing/blob/main/README.md)
 
 - This "business" in northern England provides a unique service.
 - I made this for my son and his friends.
@@ -26,6 +20,12 @@ Here are some projects for which I take full responsibility:
 - [Next.js 12](https://nextjs.org/), [React](https://react.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [HyGraph - GraphQL](https://hygraph.com/)
+- HTML, CSS
+
+## [Angular-AFL](https://github.com/headexpanded/Angular-AFL/blob/main/README.md)
+
+- a lightweight Aussie Rules AFL ladder. Loads quickly, no gambling ads.
+- [Angular](https://github.com/angular/angular-cli) version 16.1.3.
 - HTML, CSS
 
 
