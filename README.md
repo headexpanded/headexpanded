@@ -15,9 +15,6 @@ Here are some projects for which I take full responsibility:
 
 - This business in northern England provides a unique service.
 - [Visit Fat Slob Plumbing Web Site](https://fat-slob-plumbing.vercel.app/)
-- I made this for my son and his friends.
-- Yes, they are teenagers and they think it's funny.
-- But oooh, look at the lovely responsive CSS...all pure, no framework.
 - [Next.js 12](https://nextjs.org/), [React](https://react.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [HyGraph - GraphQL](https://hygraph.com/)
