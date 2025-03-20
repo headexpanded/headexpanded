@@ -9,7 +9,6 @@ Here are some projects for which I take full responsibility:
 - There's a hard core of tragics who'll absolutely love this.
 - Available Now! in the [Chrome Web Store](https://chrome.google.com/webstore/detail/random-steely-dan/ohmpmkjhiadganahhcaakeacniikloni?hl=en-GB)
 - [TypeScript](https://www.typescriptlang.org/)
-- [HyGraph - GraphQL](https://hygraph.com/)
 - HTML, CSS
 
 ## [Fat Slob Plumbing](https://github.com/headexpanded/fat_slob_plumbing/blob/main/README.md)
